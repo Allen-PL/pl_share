@@ -1,2 +1,1 @@
-# pl_share
-my_projects
+这个是我在学习Python基础知识的时候的两个练手的小项目，希望对您学习运用Python有所帮助。
